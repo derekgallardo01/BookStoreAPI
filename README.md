@@ -47,7 +47,3 @@
     ```
     flask run
     ```
-
-## Tutorial
-
-    https://www.youtube.com/watch?v=EAokwpPMVdc
